@@ -1,0 +1,171 @@
+/* first-block all code */
+.first-block {
+    background-color:white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.togle-button{
+    color: #ec165a;
+}
+
+.link-color
+{
+    color:#ec165a ;
+    font-size: 100%;
+    font-weight: 500;
+    margin-right: 5px;
+}
+.link-color:hover {
+    font-weight: 501;
+    background-color: #ec165a;
+    color: white;
+}
+#brand-name {
+    color:#ec165a ;
+    font-size: 250%;
+    font-weight: 700;
+    margin-right: 20px;
+}
+#button-color {
+    color: white;
+   font-weight: 530;
+   margin-left: 30px;
+}
+.search-bar {
+    margin-left:30px;
+    width: 13%;
+}
+ /* hotel title section  */
+ .hotel-title {
+     text-align: center;
+     padding-top: 14%;
+     color:#ec165a ;
+     font-size: 600%;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 701;
+}
+.hotel-title-div {
+    text-align: center;
+    background-image:url(hotel.png);
+    background-repeat: no-repeat;
+    width:100%;
+    padding-bottom:15% ;
+    
+}
+.tag-line {
+    text-align: center;
+     color:#fff;
+     font-size: 180%;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 501;
+
+}
+
+
+
+/* second-block all codes is there */
+.second-block {
+    background-color:white;
+    font-family: 'Montserrat', sans-serif;
+    padding-top :9% ;
+    padding-bottom: 9%;
+}
+.title-feature {
+    text-align: center;
+     padding-top: 9%;
+     color:#ec165a ;
+     font-size: 300%;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 701;
+}
+.card {
+    text-align: center;
+}
+.card-title {
+    color:black ;
+}
+
+
+
+/* third-block all codes is there */
+.third-block {
+    padding-bottom: 9%;
+    background-color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.download-feature {
+    text-align: center;
+     padding-top: 3%;
+     padding-bottom: 9%;
+     color:#ec165a ;
+     font-size: 250%;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 701;
+}
+.heading-download {
+    text-align: center;
+    font-size : 200%;
+    font-weight: 300;
+    color: black;
+    margin-top: 6%;
+}
+.paragraph-download {
+    text-align: center;
+    margin-top: 5%;
+    letter-spacing: 3px;
+    line-height:2;
+    margin-bottom: 7%;
+}
+.download-button {
+    text-align: center;
+}
+/* fourth block */
+.forth-block {
+    font-family: 'Montserrat', sans-serif;
+    background-color:white;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.footer-heading {
+    color:#ec165a ;
+    font-size: 3rem;
+    margin-bottom: 2%;
+    
+
+}
+.search-footer {
+    width: 40%;
+}
+/* contact submit button */
+.contact-button {
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.social-link {
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+.social-brand {
+    font-size: 2rem;
+    margin-right: 30px;
+    color: #ec165a;
+}
+/* media tag for more customization */
+@media (max-width:1000px){
+    .search-list {
+        text-align: center;
+        margin-bottom:2%;
+    }
+    .search-bar {
+    margin-bottom: 2%;
+
+    }
+    .hotel-title{
+        font-size: 500%;
+
+    }
+    
+}
